@@ -1,2 +1,1 @@
-# Just a Minute
- 
+Poradnik JavaScript Mastery. Porzucono
